@@ -1,2 +1,4 @@
 # Mohamed_Portfolio
-Compilation of R programming school project codes.
+Marketing for the Banking System data set which was used for my school project.  
+
+Attached are the project instructions, txt code file, and R code files with my findings.
